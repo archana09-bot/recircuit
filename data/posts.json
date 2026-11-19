@@ -1,0 +1,177 @@
+[
+  {
+    "id": "seed-router-1",
+    "authorName": "Maya R.",
+    "userNote": "Replaced this old dual-antenna Wi-Fi router. Works electrically, just slow.",
+    "imageUrl": "/src/assets/images/ewaste_post_router_1794824458958.jpg",
+    "createdAt": "2026-11-15T14:20:00.000Z",
+    "helpfulCount": 18,
+    "analysis": {
+      "itemName": "Dual-Antenna Wi-Fi Router & 12V Power Brick",
+      "category": "Networking & Power",
+      "confidence": "High",
+      "hazardLevel": "Safe to Handle",
+      "summary": "A consumer 802.11n/ac wireless router with detachable RP-SMA antennas and a standard 12V DC wall adapter.",
+      "diyMethods": [
+        {
+          "title": "Turn into a Garage / Shed Wi-Fi Extender",
+          "effort": "Quick (5 min)",
+          "toolsNeeded": [
+            "Ethernet cable",
+            "Paperclip (reset pin)"
+          ],
+          "steps": [
+            "Hold the rear Reset button with a paperclip for 10 seconds to wipe old credentials.",
+            "Connect a laptop via Ethernet, open the admin page, and switch the mode to Access Point (AP Mode).",
+            "Disable DHCP, match your home Wi-Fi name, and plug it into any dead-zone room via cable."
+          ],
+          "outcome": "Saves buying a new Wi-Fi extender and keeps the router in active use."
+        },
+        {
+          "title": "Harvest the 12V DC Power Adapter & Antennas",
+          "effort": "Quick (5 min)",
+          "toolsNeeded": [
+            "Scissors or electrical tape (if adapting plug)"
+          ],
+          "steps": [
+            "Unplug and keep the 12V DC wall brick — it powers LED strip lights, mini fans, and desktop speakers.",
+            "Unscrew the two external antennas to keep as replacements or magnetic-mount extenders for PC Wi-Fi cards."
+          ],
+          "outcome": "Gives you a reliable 12V power supply and spare RF antennas for home projects."
+        }
+      ],
+      "safeAtHomePrep": [
+        "Factory-reset the router for 15 seconds while powered on so your old Wi-Fi password is erased.",
+        "If the plastic shell is cracked beyond reuse, unscrew the casing and store the small circuit board in a dry labeled box until you have a bundle of clean PCBs."
+      ],
+      "safetyWarnings": [
+        "Unplug the wall adapter completely before opening the plastic housing.",
+        "Do not burn the ABS plastic shell or PVC power cord."
+      ],
+      "reusableParts": [
+        "12V DC Power Brick",
+        "2x RP-SMA Antennas",
+        "LED Indicators",
+        "Aluminum Heatsink"
+      ]
+    }
+  },
+  {
+    "id": "seed-earbuds-2",
+    "authorName": "Devon K.",
+    "userNote": "Left earbud stopped playing and the Lightning cable sheath split near the plug.",
+    "imageUrl": "/src/assets/images/ewaste_post_earbuds_1794824460282.jpg",
+    "createdAt": "2026-11-15T09:45:00.000Z",
+    "helpfulCount": 24,
+    "analysis": {
+      "itemName": "Broken Wired Earphones & Frayed USB Charging Cable",
+      "category": "Cables & Chargers",
+      "confidence": "High",
+      "hazardLevel": "Safe to Handle",
+      "summary": "Tangled 3.5mm wired earbuds with damaged insulation alongside a frayed USB-A charging cable.",
+      "diyMethods": [
+        {
+          "title": "Rescue Micro Neodymium Magnets from Earbuds",
+          "effort": "Quick (5 min)",
+          "toolsNeeded": [
+            "Small flathead screwdriver or butter knife",
+            "Work gloves"
+          ],
+          "steps": [
+            "Snap open the plastic earbud shells gently along the seam using a flat tool.",
+            "Lift out the tiny circular speaker driver inside each bud.",
+            "Peel the strong mini neodymium magnet off the back of the speaker coil for fridge notes or screw trays."
+          ],
+          "outcome": "Turns dead earbuds into super-strong miniature magnets for your desk or workshop."
+        },
+        {
+          "title": "Salvage Good Copper Wire & Secure Frayed Cable Ends",
+          "effort": "Project (20–30 min)",
+          "toolsNeeded": [
+            "Wire cutters or heavy scissors",
+            "Heat-shrink tubing or electrical tape"
+          ],
+          "steps": [
+            "If the USB cable still charges when held straight, reinforce the frayed neck with two snug layers of heat-shrink or tape.",
+            "If dead, snip off the damaged plug and keep the intact middle copper cable length for low-voltage 5V LED or battery craft wiring."
+          ],
+          "outcome": "Eliminates fire risk from exposed strands while saving clean insulated copper wire."
+        }
+      ],
+      "safeAtHomePrep": [
+        "Never keep using a frayed charging cord near bedding or rugs — coil and snip the broken connector off immediately so nobody plugs it in.",
+        "Keep harvested neodymium magnets away from young children and pets."
+      ],
+      "safetyWarnings": [
+        "Never strip or burn PVC cable insulation with a lighter (releases toxic hydrochloric fumes).",
+        "Discard frayed charging connectors immediately so they cannot short-circuit a USB port."
+      ],
+      "reusableParts": [
+        "2x Micro Neodymium Magnets",
+        "3.5mm Gold-Plated Plug",
+        "Insulated Copper Wire",
+        "Inline Microphone"
+      ]
+    }
+  },
+  {
+    "id": "seed-keyboard-3",
+    "authorName": "Samira T.",
+    "userNote": "Missing the D keycap and mouse scroll wheel skips.",
+    "imageUrl": "/src/assets/images/ewaste_post_keyboard_1794824460002.jpg",
+    "createdAt": "2026-11-14T18:10:00.000Z",
+    "helpfulCount": 15,
+    "analysis": {
+      "itemName": "Membrane Desktop Keyboard & Optical Mouse",
+      "category": "Audio & Peripherals",
+      "confidence": "High",
+      "hazardLevel": "Safe to Handle",
+      "summary": "Standard desktop membrane keyboard with a missing keycap paired with an older optical mouse.",
+      "diyMethods": [
+        {
+          "title": "5-Minute Keycap Swap & Mouse Wheel Fix",
+          "effort": "Quick (5 min)",
+          "toolsNeeded": [
+            "Cotton swab",
+            "Rubbing alcohol",
+            "Small Phillips screwdriver"
+          ],
+          "steps": [
+            "Swap a rarely used keycap (like Scroll Lock or Pause) onto the missing D stem so the keyboard works comfortably again.",
+            "Remove the single screw under the mouse, blow out dust around the scroll wheel axle, and wipe the optical sensor lens with a dry swab."
+          ],
+          "outcome": "Restores both peripherals to working backup duty in under 10 minutes."
+        },
+        {
+          "title": "Upcycle Keycaps & USB Cable for Crafts/Repairs",
+          "effort": "Upcycle",
+          "toolsNeeded": [
+            "Butter knife or keycap puller",
+            "Warm soapy water",
+            "Hot glue or superglue"
+          ],
+          "steps": [
+            "Pop off all keycaps and wash them in warm soapy water.",
+            "Glue favorite letter keys onto small flat magnets or wooden tiles for custom fridge word magnets, luggage tags, or coaster borders.",
+            "Remove the AA battery (if wireless) and store it separately; keep the intact USB cord for 5V DIY lamps."
+          ],
+          "outcome": "Turns ~104 plastic keycaps into playful home organizers instead of landfill plastic."
+        }
+      ],
+      "safeAtHomePrep": [
+        "Always check underneath the keyboard and mouse for AA/AAA batteries before storing or repurposing.",
+        "Wipe down grime with mild soap before crafting with the keycaps."
+      ],
+      "safetyWarnings": [
+        "Check for leaking alkaline batteries inside battery compartments and handle crust with gloves."
+      ],
+      "reusableParts": [
+        "100+ Keycaps",
+        "Mouse Microswitches",
+        "Optical Lens",
+        "Rubber Feet",
+        "USB Cable"
+      ]
+    }
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "ReCircuit",
+  "description": "Snap a photo of household e-waste for instant AI recognition and safe, practical at-home DIY reuse, part harvesting, and disposal steps without needing a recycling center.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
